@@ -11,7 +11,7 @@
 ## Contact Info
 📫 You can reach me:
 - on [LinkedIn]
-- email @ mrendi29@gmail.com<br>
+- email @ me@endicaushi.com<br>
 
 ### Languages and Tools:
 
