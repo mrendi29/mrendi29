@@ -4,8 +4,8 @@
 
 ## I'm a Boston-based Software Engineer!
 
-- 🔭 I’m currently working for [Akamai](https://www.akamai.com/)
-- 🌱 Currently learning functional programming and how to analyze and store time series data!
+- 🔭 Currently SWE @[Akamai](https://www.akamai.com/)
+- 🌱 Passioned about Functional Programming, Time Series Analysis, Distributed Systems and Analytics at Scale
 - ⚡ Fun fact: I am a certified diamontologist💎!
 
 ## Contact Info
