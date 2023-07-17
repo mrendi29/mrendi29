@@ -5,7 +5,7 @@
 ## I'm a Boston-based Software Engineer!
 
 - 🔭 Currently SWE @[Akamai](https://www.akamai.com/)
-- 🌱 Passioned about Data Lakehouses, Functional Programming, Time Series Analysis, Distributed Systems and Analytics at Scale
+- 🌱 Passioned about K8s, Data Lakehouses, Functional Programming, Time Series Analysis, Distributed Systems and Analytics at Scale
 - ⚡ Fun fact: I am a certified diamontologist💎!
 
 ## Contact Info
