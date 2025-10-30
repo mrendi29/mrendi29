@@ -15,7 +15,6 @@
 
 
 ##### &nbsp;
-![Endi's github stats](https://github-readme-stats.vercel.app/api?username=mrendi29)
 
 [website]: https://endicaushi.com
 [linkedin]: https://www.linkedin.com/in/endicaushi/
