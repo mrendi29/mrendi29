@@ -13,8 +13,5 @@
 - on [LinkedIn]
 - email @ endi@caushi.al<br>
 
-
-##### &nbsp;
-
 [website]: https://endicaushi.com
 [linkedin]: https://www.linkedin.com/in/endicaushi/
