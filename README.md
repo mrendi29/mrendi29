@@ -4,7 +4,7 @@
 
 ## I'm a Boston-based Software Engineer!
 
-- 🔭 Currently SWE @[Akamai](https://www.akamai.com/) buiding [Egnatia](https://www.youtube.com/watch?v=rcMOO_bhC9U)
+- 🔭 Currently Tech Lead @[Akamai](https://www.akamai.com/) buiding [Egnatia](https://youtu.be/5vsRY0zqVk4?si=haBMLrL8aSTbncA3)
 - 🌱 Passioned about K8s, Data Lakehouses, Functional Programming, Time Series Analysis, Distributed Systems and Analytics at Scale
 - ⚡ Fun fact: I am a certified diamontologist💎!
 
